@@ -1,0 +1,49 @@
+a {
+	/* color: #BB86FC; */
+	color: #03DAC6;
+}
+
+a:visited {
+	color: #018786;
+}
+
+body {
+	background-color: #121212;
+	color: whitesmoke;
+}
+
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	max-width: 768px;
+	background-color: #363636;
+	border-radius: 4px;
+}
+
+.flex-container {
+	display: flex;
+	border-top: 1px solid beige;
+}
+
+.flex-box {
+	flex: 1
+}
+
+.flex-header {
+	text-align: center;
+	color: #84C9FB;
+}
+
+.header {
+	text-align: center;
+	color: #84C9FB;
+}
+
+.map-preview {
+	width: 350px;
+}
+
+.text-center {
+	text-align: center;
+}
