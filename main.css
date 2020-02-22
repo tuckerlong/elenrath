@@ -47,3 +47,13 @@ body {
 .text-center {
 	text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 22px;
+	}
+	
+	.flex-container {
+		display: inline;
+	}
+}
