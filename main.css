@@ -26,6 +26,10 @@ body {
 	border-top: 1px solid beige;
 }
 
+.flex-container:first-child {
+	border-top: 0;
+}
+
 .flex-box {
 	flex: 1
 }
